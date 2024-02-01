@@ -4,11 +4,11 @@ dimetry is a tool to install and manage the configuration of various desktop env
 
 ## supported DEs/WMs:
 ### DE:
-  [] xfce
-  [] kde
-  [] gnome
+  - [ ] xfce
+  - [ ] kde
+  - [ ] gnome
 ### WM:
-  [] i3
-  [] qtile
-  [] dwm
-  [] bspwm
+  - [ ] i3
+  - [ ] qtile
+  - [ ] dwm
+  - [ ] bspwm
